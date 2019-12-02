@@ -73,6 +73,11 @@ Remember to search for "TODO change" on the files to change example code.
 
 ### With Docker
 
+
+Run:
+
+    cp .env.template .env
+
 Run:
 
     docker-compose up --build
